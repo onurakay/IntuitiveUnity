@@ -15,7 +15,7 @@ public class EndScreen : MonoBehaviour
 
     public void ShowFinalScore()
     {
-        finalScoreText.text = $"Congrat!!!\nYou got a score of {scoreController.CalculateScore()}%";
+        finalScoreText.text = $"You got a score of {scoreController.CalculateScore()}%";
     }
 
 }

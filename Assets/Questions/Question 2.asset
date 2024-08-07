@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4595fed5c89e3a146a55851f479be2df, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Enter new question text here
+  question: Which Unity component is used to apply physics-based interactions to
+    a GameObject?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 3
+  - Collider
+  - Rigidbody
+  - Mesh Renderer
+  - Animator
+  correctAnswerIndex: 1

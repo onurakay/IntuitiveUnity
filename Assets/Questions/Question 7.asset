@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4595fed5c89e3a146a55851f479be2df, type: 3}
-  m_Name: Question 4
+  m_Name: Question 7
   m_EditorClassIdentifier: 
-  question: Which design pattern is best suited for managing different game states,
-    such as Main Menu, Gameplay, and Game Over, in Unity?
+  question: Which Unity class is used to create and manage reusable pools of objects
+    to improve performance?
   answers:
-  - Singleton Pattern
-  - Factory Pattern
-  - Observer Pattern
-  - State Pattern
-  correctAnswerIndex: 3
+  - ObjectPool
+  - ResourceManager
+  - AssetBundle
+  - SceneManager
+  correctAnswerIndex: 0
