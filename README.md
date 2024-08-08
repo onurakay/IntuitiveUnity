@@ -1,4 +1,4 @@
-![intuituve_unity](https://github.com/user-attachments/assets/abd3eb70-2faa-485d-93f6-42f425a3cb89)
+![intuituve_unity_small](https://github.com/user-attachments/assets/8d38cf8a-0f69-4674-b8c5-b407250d300f)
 
 ## Quiz App
 
